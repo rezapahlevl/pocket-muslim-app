@@ -26,7 +26,10 @@ const Navbar = () => {
           </label>
         </div>
         <div className="flex-1 lg:hidden">
-          <Link to="/" className="text-xl btn btn-ghost dark:text-xs">
+          <Link
+            to="/pocket-muslim-app"
+            className="text-xl btn btn-ghost dark:text-xs"
+          >
             Pocket
           </Link>
         </div>

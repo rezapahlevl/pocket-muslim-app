@@ -19,7 +19,7 @@ const Sidebar = ({ children }) => {
 
           <ul className="min-h-full py-4 border-r border-black lg:px-8 menu w-80 bg-base-100 text-base-content lg:border-none">
             <Link
-              to="/"
+              to="/pocket-muslim-app"
               className="flex-none py-1 ml-3 text-xl font-semibold text-center lg:m-0 lg:text-3xl lg:text-left"
             >
               Pocket
@@ -82,7 +82,7 @@ const Sidebar = ({ children }) => {
               </li> */}
               <li>
                 <Link
-                  to="/asmaul-husna"
+                  to="/pocket-muslim-app/asmaul-husna"
                   className="mb-3 border border-black bg-base-300 hover:border hover:border-black hover:bg-primary hover:text-primary-content"
                 >
                   Asma'ul Husna

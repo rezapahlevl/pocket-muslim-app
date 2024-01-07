@@ -25,25 +25,25 @@ const Home = () => {
           </div>
           <div className="flex flex-wrap justify-center gap-3 py-5">
             <Link
-              to="/surah"
+              to="/pocket-muslim-app/surah"
               className="text-lg rounded-md btn btn-md btn-ghost hover:border hover:border-black hover:bg-primary hover:text-primary-content"
             >
               Baca Quran
             </Link>
             <Link
-              to="/hadis"
+              to="/pocket-muslim-app/hadis"
               className="text-lg rounded-md btn btn-md btn-ghost hover:border hover:border-black hover:bg-primary hover:text-primary-content"
             >
               Hadis
             </Link>
             <Link
-              to="/tahlil"
+              to="/pocket-muslim-app/tahlil"
               className="text-lg rounded-md btn btn-md btn-ghost hover:border hover:border-black hover:bg-primary hover:text-primary-content"
             >
               Tahlil
             </Link>
             <Link
-              to="/tasbih"
+              to="/pocket-muslim-app/tasbih"
               className="text-lg rounded-md btn btn-md btn-ghost hover:border hover:border-black hover:bg-primary hover:text-primary-content"
             >
               Tasbih
@@ -56,7 +56,7 @@ const Home = () => {
               Wirid
             </a> */}
             <Link
-              to="/doa-harian"
+              to="/pocket-muslim-app/doa-harian"
               className="text-lg rounded-md btn btn-md btn-ghost hover:border hover:border-black hover:bg-primary hover:text-primary-content"
             >
               Doa Harian
@@ -68,7 +68,7 @@ const Home = () => {
               Tajwid
             </a> */}
             <Link
-              to="/asmaul-husna"
+              to="/pocket-muslim-app/asmaul-husna"
               className="text-lg rounded-md btn btn-md btn-ghost hover:border hover:border-black hover:bg-primary hover:text-primary-content"
             >
               Asma'ul Husna
