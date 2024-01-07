@@ -7,7 +7,11 @@ const Home = () => {
       <div className="flex items-center justify-center h-full">
         <div className="flex flex-col">
           <div className="flex justify-between border border-black rounded-md shadow-md lg:gap-8 bg-base-100">
-            <img src="/p2.png" className="w-32 h-32 lg:h-auto" alt="" />
+            <img
+              src="./pocket-muslim-app/p2.png"
+              className="w-32 h-32 lg:h-auto"
+              alt=""
+            />
             <div className="flex flex-col items-center justify-center">
               <h1 className="text-xl font-medium text-center lg:text-3xl">
                 Hi👋, Assalamu'alaikum.
@@ -18,7 +22,7 @@ const Home = () => {
               </p>
             </div>
             <img
-              src="/p1.png"
+              src="./pocket-muslim-app/p1.png"
               className="hidden w-32 h-32 transform lg:h-auto lg:block -scale-x-100"
               alt=""
             />
