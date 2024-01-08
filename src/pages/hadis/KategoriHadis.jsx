@@ -54,7 +54,7 @@ const KategoriHadis = () => {
                   {/* {hadis.audioFull["05"]} */}
                   <div className="flex items-end justify-end flex-1">
                     <Link
-                      to={`pocket-muslim-app/hadis/${hadis.id}`}
+                      to={`/list-hadis/${hadis.id}`}
                       className="btn btn-primary text-primary-content"
                     >
                       Baca

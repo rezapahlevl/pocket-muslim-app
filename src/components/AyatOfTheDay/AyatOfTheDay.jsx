@@ -46,7 +46,7 @@ const AyatOfTheDay = () => {
             <h2>{surah.data.jumlahAyat} Ayat</h2>
             <div className="justify-end card-actions">
               <Link
-                to={`pocket-muslim-app/surah/${surah.data.nomor}`}
+                to={`/surah/${surah.data.nomor}`}
                 className="btn btn-primary text-primary-content"
               >
                 Baca

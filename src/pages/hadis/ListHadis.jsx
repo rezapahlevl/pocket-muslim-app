@@ -57,7 +57,7 @@ const ListHadis = () => {
                   {/* {hadis.audioFull["05"]} */}
                   <div className="justify-end card-actions">
                     <Link
-                      to={`pocket-muslim-app/detail-hadis/${hadis.id}`}
+                      to={`/detail-hadis/${hadis.id}`}
                       className="btn btn-primary text-primary-content"
                     >
                       Lihat Detail

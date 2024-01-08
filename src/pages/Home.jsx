@@ -22,32 +22,32 @@ const Home = () => {
               </p>
             </div>
             <img
-              src="./pocket-muslim-app/p1.png"
+              src="/p1.png"
               className="hidden w-32 h-32 transform lg:h-auto lg:block -scale-x-100"
               alt=""
             />
           </div>
           <div className="flex flex-wrap justify-center gap-3 py-5">
             <Link
-              to="/pocket-muslim-app/surah"
+              to="/surah"
               className="text-lg rounded-md btn btn-md btn-ghost hover:border hover:border-black hover:bg-primary hover:text-primary-content"
             >
               Baca Quran
             </Link>
             <Link
-              to="/pocket-muslim-app/hadis"
+              to="/hadis"
               className="text-lg rounded-md btn btn-md btn-ghost hover:border hover:border-black hover:bg-primary hover:text-primary-content"
             >
               Hadis
             </Link>
             <Link
-              to="/pocket-muslim-app/tahlil"
+              to="/tahlil"
               className="text-lg rounded-md btn btn-md btn-ghost hover:border hover:border-black hover:bg-primary hover:text-primary-content"
             >
               Tahlil
             </Link>
             <Link
-              to="/pocket-muslim-app/tasbih"
+              to="/tasbih"
               className="text-lg rounded-md btn btn-md btn-ghost hover:border hover:border-black hover:bg-primary hover:text-primary-content"
             >
               Tasbih
@@ -60,7 +60,7 @@ const Home = () => {
               Wirid
             </a> */}
             <Link
-              to="/pocket-muslim-app/doa-harian"
+              to="/doa-harian"
               className="text-lg rounded-md btn btn-md btn-ghost hover:border hover:border-black hover:bg-primary hover:text-primary-content"
             >
               Doa Harian
@@ -72,7 +72,7 @@ const Home = () => {
               Tajwid
             </a> */}
             <Link
-              to="/pocket-muslim-app/asmaul-husna"
+              to="/asmaul-husna"
               className="text-lg rounded-md btn btn-md btn-ghost hover:border hover:border-black hover:bg-primary hover:text-primary-content"
             >
               Asma'ul Husna

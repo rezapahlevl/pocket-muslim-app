@@ -28,7 +28,7 @@ const Sidebar = ({ children }) => {
             <div className="flex-1 overflow-y-auto text-lg mt-7">
               <li>
                 <Link
-                  to="/pocket-muslim-app/surah"
+                  to="/surah"
                   className="mb-3 border border-black bg-base-300 hover:border hover:border-black hover:bg-primary hover:text-primary-content"
                 >
                   Quran
@@ -36,7 +36,7 @@ const Sidebar = ({ children }) => {
               </li>
               <li>
                 <Link
-                  to="/pocket-muslim-app/hadis"
+                  to="/hadis"
                   className="mb-3 border border-black bg-base-300 hover:border hover:border-black hover:bg-primary hover:text-primary-content"
                 >
                   Hadis
@@ -44,7 +44,7 @@ const Sidebar = ({ children }) => {
               </li>
               <li>
                 <Link
-                  to="/pocket-muslim-app/tahlil"
+                  to="/tahlil"
                   className="mb-3 border border-black bg-base-300 hover:border hover:border-black hover:bg-primary hover:text-primary-content"
                 >
                   Tahlil
@@ -52,7 +52,7 @@ const Sidebar = ({ children }) => {
               </li>
               <li>
                 <Link
-                  to="/pocket-muslim-app/tasbih"
+                  to="/tasbih"
                   className="mb-3 border border-black bg-base-300 hover:border hover:border-black hover:bg-primary hover:text-primary-content"
                 >
                   Tasbih
@@ -66,7 +66,7 @@ const Sidebar = ({ children }) => {
               </li> */}
               <li>
                 <Link
-                  to="/pocket-muslim-app/doa-harian"
+                  to="/doa-harian"
                   className="mb-3 border border-black bg-base-300 hover:border hover:border-black hover:bg-primary hover:text-primary-content"
                 >
                   Doa Harian
@@ -82,7 +82,7 @@ const Sidebar = ({ children }) => {
               </li> */}
               <li>
                 <Link
-                  to="/pocket-muslim-app/asmaul-husna"
+                  to="/asmaul-husna"
                   className="mb-3 border border-black bg-base-300 hover:border hover:border-black hover:bg-primary hover:text-primary-content"
                 >
                   Asma'ul Husna
