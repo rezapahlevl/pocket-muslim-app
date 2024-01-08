@@ -59,7 +59,7 @@ const Surah = ({ nomor }) => {
               <div className="flex flex-col">
                 <div className="flex items-center justify-between">
                   <h1>({ayat.nomorAyat})</h1>
-                  <h1 className="pb-3 text-2xl leading-loose text-right lg:ml-64 font-arab">
+                  <h1 className="pb-3 text-2xl leading-loose text-right lg:ml-64">
                     {ayat.teksArab}
                   </h1>
                 </div>

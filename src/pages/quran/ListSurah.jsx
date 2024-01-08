@@ -47,9 +47,7 @@ const ListSurah = () => {
                 <div className="items-center p-5 text-center card-body">
                   <h2 className="card-title ">
                     {surah.nomor}.{" "}
-                    <span className="text-xl font-bold font-arab">
-                      {surah.nama}
-                    </span>{" "}
+                    <span className="text-xl font-bold">{surah.nama}</span>{" "}
                   </h2>
                   <h2 className="text-xl">{surah.namaLatin}</h2>
                   <p>

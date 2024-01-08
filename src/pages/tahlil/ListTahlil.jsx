@@ -14,7 +14,7 @@ const ListTahlil = () => {
             <h1 className="pb-3 text-xl font-medium text-center">
               {tahlil.title}
             </h1>
-            <h3 className="pb-3 text-2xl font-medium leading-loose text-right font-arab">
+            <h3 className="pb-3 text-2xl font-medium leading-loose text-right">
               {tahlil.arabic}
             </h3>
             <h3 className="pb-3 text-lg text-justify">{tahlil.indonesia}</h3>

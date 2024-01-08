@@ -14,7 +14,7 @@ const ListAsmaulHusna = () => {
               key={asma.id}
               className="flex flex-col items-center justify-center p-5 border border-black rounded-md bg-base-100 hover:bg-base-200"
             >
-              <h1 className="pb-3 text-2xl font-bold font-arab">
+              <h1 className="pb-3 text-2xl font-bold">
                 {asma.id}. {asma.arab}
               </h1>
               <h1>{asma.latin}</h1>

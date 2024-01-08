@@ -18,7 +18,7 @@ const Home = () => {
               </h1>
               <p className="text-lg text-center lg:m-0">
                 {/* Your Partner Of Spiritual Journey */}
-                Selamat Datang di Pocket.
+                Selamat Datang di Pocket Muslim App.
               </p>
             </div>
             <img

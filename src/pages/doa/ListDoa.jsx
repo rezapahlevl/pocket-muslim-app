@@ -27,7 +27,7 @@ const ListDoa = () => {
                 {doa.title}
               </summary>
               <div className="flex flex-col collapse-content">
-                <h3 className="py-3 text-2xl font-medium text-right font-arab">
+                <h3 className="py-3 text-2xl font-medium text-right">
                   {doa.arabic}
                 </h3>
                 <h4 className="text-lg italic">{doa.latin}</h4>
