@@ -19,7 +19,7 @@ const Sidebar = ({ children }) => {
 
           <ul className="min-h-full py-4 border-r border-black lg:px-8 menu w-80 bg-base-100 text-base-content lg:border-none">
             <Link
-              to="/pocket-muslim-app"
+              to="/pocket-muslim-app/"
               className="flex-none py-1 ml-3 text-xl font-semibold text-center lg:m-0 lg:text-3xl lg:text-left"
             >
               Pocket

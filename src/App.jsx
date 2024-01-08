@@ -20,7 +20,7 @@ function App() {
           <Navbar />
           <div className="flex-1 w-full px-3 py-3 overflow-y-auto lg:px-8 lg:py-7 lg:rounded-t-md lg:border lg:border-black lg:shadow-md bg-base-300 scrollbar-hide">
             <Routes>
-              <Route path="/pocket-muslim-app" element={<Home />} />
+              <Route path="/pocket-muslim-app/" element={<Home />} />
 
               <Route path="/pocket-muslim-app/surah" element={<ListSurah />} />
               <Route
