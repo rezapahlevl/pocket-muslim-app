@@ -22,7 +22,7 @@ const Home = () => {
               </p>
             </div>
             <img
-              src="/p1.png"
+              src="./pocket-muslim-app/p1.png"
               className="hidden w-32 h-32 transform lg:h-auto lg:block -scale-x-100"
               alt=""
             />
