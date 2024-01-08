@@ -22,15 +22,36 @@ function App() {
             <Routes>
               <Route path="/pocket-muslim-app" element={<Home />} />
 
-              <Route path="/surah" element={<ListSurah />} />
-              <Route path="/surah/:nomor" element={<DetailSurah />} />
-              <Route path="/hadis" element={<KategoriHadis />} />
-              <Route path="/list-hadis/:kategori" element={<ListHadis />} />
-              <Route path="/detail-hadis/:id" element={<DetailHadis />} />
-              <Route path="/doa-harian" element={<ListDoa />} />
-              <Route path="/tasbih" element={<Tasbih />} />
-              <Route path="/tahlil" element={<ListTahlil />} />
-              <Route path="/asmaul-husna" element={<ListAsmaulHusna />} />
+              <Route path="/pocket-muslim-app/surah" element={<ListSurah />} />
+              <Route
+                path="/pocket-muslim-app/surah/:nomor"
+                element={<DetailSurah />}
+              />
+              <Route
+                path="/pocket-muslim-app/hadis"
+                element={<KategoriHadis />}
+              />
+              <Route
+                path="/pocket-muslim-app/hadis/:kategori"
+                element={<ListHadis />}
+              />
+              <Route
+                path="/pocket-muslim-app/detail-hadis/:id"
+                element={<DetailHadis />}
+              />
+              <Route
+                path="/pocket-muslim-app/doa-harian"
+                element={<ListDoa />}
+              />
+              <Route path="/pocket-muslim-app/tasbih" element={<Tasbih />} />
+              <Route
+                path="/pocket-muslim-app/tahlil"
+                element={<ListTahlil />}
+              />
+              <Route
+                path="/pocket-muslim-app/asmaul-husna"
+                element={<ListAsmaulHusna />}
+              />
             </Routes>
           </div>
         </Sidebar>
