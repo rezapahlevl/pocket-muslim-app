@@ -12,11 +12,11 @@ const Home = () => {
               className="w-32 h-32 lg:h-auto"
               alt=""
             />
-            <div className="flex flex-col items-center justify-center">
+            <div className="flex flex-col items-center justify-center mr-5">
               <h1 className="text-xl font-medium text-center lg:text-3xl">
                 Hi👋, Assalamu'alaikum.
               </h1>
-              <p className="mr-3 text-lg text-center lg:m-0">
+              <p className="text-lg text-center lg:m-0">
                 {/* Your Partner Of Spiritual Journey */}
                 Selamat Datang di Pocket.
               </p>
