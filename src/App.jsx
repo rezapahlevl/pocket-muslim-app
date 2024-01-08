@@ -32,7 +32,7 @@ function App() {
                 element={<KategoriHadis />}
               />
               <Route
-                path="/pocket-muslim-app/hadis/:kategori"
+                path="/pocket-muslim-app/list-hadis/:kategori"
                 element={<ListHadis />}
               />
               <Route
