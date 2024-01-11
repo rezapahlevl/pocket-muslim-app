@@ -17,6 +17,26 @@
 
 ### Home
 ![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p1.png?raw=true)
+### Home
+![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p2.png?raw=true)
+### Home
+![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p3.png?raw=true)
+### Home
+![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p4.png?raw=true)
+### Home
+![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p5.png?raw=true)
+### Home
+![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p6.png?raw=true)
+### Home
+![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p7.png?raw=true)
+### Home
+![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p8.png?raw=true)
+### Home
+![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p9.png?raw=true)
+### Home
+![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p10.png?raw=true)
+### Home
+![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p11.png?raw=true)
 
 ## Built With
   [![Bootstrap][Bootstrap.com]][Bootstrap-url]
