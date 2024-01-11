@@ -16,29 +16,29 @@
   [![DaisyUI][DaisyUI.com]][DaisyUI-url]
 
 <!-- ABOUT THE PROJECT -->
-<h1>Screenshots of The Project</h3>
+## Screenshots of The Project
 
 ### Home
 ![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p1.png?raw=true)
-### Home
+### List Surah
 ![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p2.png?raw=true)
-### Home
+### Detail Surah
 ![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p3.png?raw=true)
-### Home
+### Detail Tafsir
 ![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p4.png?raw=true)
-### Home
+### Kategori Hadis
 ![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p5.png?raw=true)
-### Home
+### List Hadis
 ![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p6.png?raw=true)
-### Home
+### Detail Hadis
 ![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p7.png?raw=true)
-### Home
+### Tahlil
 ![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p8.png?raw=true)
-### Home
+### Tasbih
 ![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p9.png?raw=true)
-### Home
+### Doa Harian
 ![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p10.png?raw=true)
-### Home
+### Asmaul Husna
 ![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//public/markdown/p11.png?raw=true)
 
 <!-- CONTACT -->
