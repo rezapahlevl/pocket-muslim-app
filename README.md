@@ -12,7 +12,7 @@
 
 ## Built With
   [![React][React.dev]][React-url]
-  [![TailwindCSS][Taiwindcss.com]][Tailwindcss-url]
+  [![TailwindCSS][Tailwindcss.com]][Tailwindcss-url]
   [![DaisyUI][DaisyUI.com]][DaisyUI-url]
 
 ## API
