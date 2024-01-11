@@ -2,6 +2,7 @@ import { useState } from "react";
 import Api from "../../hooks/Api";
 import AudioBtn from "../../components/AudioButton/AudioBtn";
 import { Link } from "react-router-dom";
+import { PiHeartFill } from "react-icons/pi";
 
 const ListSurah = () => {
   const url = "https://equran.id/api/v2/surat";
