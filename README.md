@@ -17,6 +17,7 @@
 
 ## API
 API Quran : [EQuran.id](https://equran.id)
+<br />
 API Hadis : [Hadeethenc](https://hadeethenc.com)
 
 <!-- ABOUT THE PROJECT -->
@@ -56,6 +57,6 @@ Project Link: [Here](https://github.com/rezapahlevl/php-simple-crud)
 [React-url]: https://react.dev
 [DaisyUI.com]: https://img.shields.io/badge/daisyui-F8F4EC?style=for-the-badge&logo=daisyui&logoColor=black
 [DaisyUI-url]: https://daisyui.com 
-[DaisyUI.com]: https://img.shields.io/badge/daisyui-3B3486?style=for-the-badge&logo=tailwindcss&logoColor=white
-[DaisyUI-url]: https://daisyui.com 
+[Tailwindcss.com]: https://img.shields.io/badge/tailwindcsss-3B3486?style=for-the-badge&logo=tailwindcss&logoColor=white
+[Tailwindcss-url]: https://tailwindcss.com 
 
