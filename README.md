@@ -15,6 +15,10 @@
   [![TailwindCSS][Taiwindcss.com]][Tailwincss-url]
   [![DaisyUI][DaisyUI.com]][DaisyUI-url]
 
+## API
+API Quran : [EQuran.id](https://equran.id)
+API Hadis : [Hadeethenc](https://hadeethenc.com)
+
 <!-- ABOUT THE PROJECT -->
 ## Screenshots of The Project
 
@@ -43,9 +47,7 @@
 
 <!-- CONTACT -->
 ## Contact
-
 Reza Pahlevi - [@instagram](https://instagram.com/rezapahlevl) - rezapahlevi.dev@gmail.com
-
 Project Link: [Here](https://github.com/rezapahlevl/php-simple-crud)
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -53,5 +55,7 @@ Project Link: [Here](https://github.com/rezapahlevl/php-simple-crud)
 [React.dev]: https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://react.dev
 [DaisyUI.com]: https://img.shields.io/badge/daisyui-F8F4EC?style=for-the-badge&logo=daisyui&logoColor=black
+[DaisyUI-url]: https://daisyui.com 
+[DaisyUI.com]: https://img.shields.io/badge/daisyui-3B3486?style=for-the-badge&logo=tailwindcss&logoColor=white
 [DaisyUI-url]: https://daisyui.com 
 
