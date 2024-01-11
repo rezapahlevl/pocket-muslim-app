@@ -16,7 +16,7 @@
 <h1>About The Project</h3>
 
 ### Home
-![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main/markdown/p1.png?raw=true)
+![alt text](https://github.com/rezapahlevl/pocket-muslim-app/blob/main//markdown/p1.png?raw=true)
 
 ## Built With
   [![Bootstrap][Bootstrap.com]][Bootstrap-url]
