@@ -1,12 +1,12 @@
 <!-- PROJECT LOGO -->
 <h1>POCKET</h1>
-<!--<a href="https://github.com/github_username/repo_name">Explore the docs</a>
+    <a href="https://github.com/rezapahlevl/pocket-muslim-app">Explore the docs</a>
     .
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://rezapahlevl.github.io/pocket-muslim-app">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/rezapahlevl/pocket-muslim-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a> -->
+    <a href="https://github.com/rezapahlevl/pocket-muslim-app/issues">Request Feature</a>
   </p>
 </div>
 
